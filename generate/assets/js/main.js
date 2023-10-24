@@ -1,4 +1,4 @@
-const generationURL = "http://127.2.0.1/vision-one-api/generate.php";
+const generationURL = "https://palash-chatterjee-vision-one.000webhostapp.com/generate.php";
 const placeholderPrompts = [
   "cute adorable puppy",
   "wolf in the night hunting, colorful bright",
